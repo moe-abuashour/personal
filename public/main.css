@@ -1,0 +1,289 @@
+
+      body {
+        overflow-x: hidden;
+        background-color: white
+      }
+    
+      .main-H {
+        color: #eec493;
+        
+        font-size: 3.2rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+       position: relative;
+     
+       
+       
+      
+      text-decoration: underline;
+ 
+      }
+      .main-P {
+        color: #eec493;
+        font-size: 1.25rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+       Position: relative;
+       
+      
+       
+       
+     
+      
+       
+      }
+ 
+      .image {
+            width: 21rem;
+            position: relative;
+           
+            
+        
+           
+            border: 3px solid black;
+            
+      } 
+
+      
+      
+      .g-1 {
+        position: relative;
+        
+        
+        padding: 3rem;
+        background-color: #1e2a3b;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        gap: 10rem;
+       
+        
+        
+    
+        
+       
+      }
+
+    
+      
+     
+
+      
+      
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+      .h-2 {
+        font-size: 1.9rem;
+        color: #eec493;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+       position: relative;
+      
+       text-decoration: underline;
+       }
+       .grid-2-1 {
+        background-color: #242f3f;
+        overflow: auto;
+       border: 3px solid black;
+       position: relative;
+       
+       width: 55rem;
+       height: 25rem;
+       line-height: 2.5;
+       padding: 5px 4px;
+       text-align: center;
+       font-size: 1.2rem;
+       
+       }
+     
+    
+       .bullet {
+        list-style-position: inside;
+        list-style-type: square;
+        color: #eec493;
+       }
+    
+    
+
+       ::-webkit-scrollbar {
+        display: none;
+      }
+
+       .image-2 {
+        border: 3px solid black;
+        
+        width: 22rem;
+        height: 19rem;
+
+       }
+
+
+
+       .flex-2 {
+        
+        position: relative;
+        background-color: #242f3f;
+        padding: 3rem;
+        justify-content: center;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        
+
+
+
+
+       }
+
+       
+       
+       .h-3 {
+        font-size: 2.2rem;
+        color: #eec493;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+      
+       position: relative;
+      
+       text-decoration: underline;
+       }
+       
+       .image-3 {
+        border: 3px solid black;
+        width: 18.75rem;
+        position: relative;
+       
+        
+       
+        
+        
+       }
+
+       .image-4{
+        border: 3px solid black;
+        width: 18.75rem;
+        position: relative;
+       
+        
+       }
+       .flex-3 {
+        background-color: #1e2a3b;
+        position: relative;
+        
+        padding: 3rem;
+        justify-content: center;
+        width: 100%;
+        display: flex;
+        gap: 7rem;
+        flex-wrap: wrap;
+
+       }
+       .grid-container  {
+       
+        position: relative;
+        
+        background-color: black;
+        padding: 3px;
+        column-gap: 2px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: 3.125rem auto;
+        row-gap: 2px;
+
+        }
+
+      .grid-row-1 {
+        font-size: 25px;
+        text-align: center;
+        color: #eec493;
+        padding: .5rem;
+      }
+      .grid-row-2 {
+        
+        font-size: 23px;
+        text-align: center;
+        color: #eec493;
+        padding: 1rem;
+       
+       
+      }
+ 
+       .grid-container > div {
+        
+        background-color: #1e2a3b;
+       }
+       
+   
+       .icon-flex {
+        position: relative;
+        flex-direction: row;
+        padding-top: 1rem;
+        padding-bottom: .5rem;
+        width: 100%;
+        display: flex;
+        background-color: #242f3f;
+        justify-content: space-around;
+        text-align: center;
+
+       }
+
+       
+       .icon-linkedin {
+        position: relative;
+        
+        font-size: 3.75rem;
+    
+      
+        color: #eec493;
+       }
+       .icon-github {
+        position: relative;
+
+        font-size: 3.75rem;
+        color: #eec493;
+       }
+       .icon-gmail {
+        position: relative;
+
+        font-size: 2rem;
+        color: #eec493;
+       }
+
+       .email-text {
+        position: relative;
+       
+        font-size: 1.25rem;
+        color: #eec493;
+        
+        
+       }
+       
+       
+     
